@@ -1,0 +1,125 @@
+:root{
+    --bgColor: #607D8B;
+    --textColor: #CFD8DC;
+    --boxColor: #455A64;
+    --innerBox: #37474F;
+    --footColor: #455A64;
+    --linkColor: #263238;
+    --linkHover: #111;
+}
+header{
+  text-align: center;
+  padding: 30px;
+  margin-top: 5px;
+  margin-left: 10px;
+  margin-right: 10px;
+  background-color: var(--boxColor);
+}
+h1{
+  color: var(--textColor);
+  font-family: sans-serif;
+}
+#nav1{
+  text-align: center;
+}
+body{
+  font-family: sans-serif;
+  background-color: var(--bgColor);
+}
+nav{
+  margin-left: 10px; margin-right:10px;margin-bottom: 10px;
+  background-color: var(--linkColor);
+  padding: 15px;
+}
+a{
+  color: var(--textColor);
+  text-decoration: none;
+}
+.div1{
+  margin: 10px;
+  float: left;
+  background-color: var(--boxColor);
+  width: 70%;
+}
+.mcm{
+  background-color: var(--innerBox);
+  margin: 15px;
+}
+.cea{
+  background-color: var(--innerBox);
+  margin: 15px;
+}
+.img1{
+  margin: 20px;
+}
+.div2{
+  margin: 10px;
+  background-color: var(--boxColor);
+  height: 440px;
+  width: 525px;
+  float: right;
+}
+#div3{
+  margin: 10px;
+  background-color: var(--boxColor);
+  height: 450px;
+  width: 525px;
+  float: right;
+}
+h2{
+  color: var(--textColor);
+  margin-left: 15px;
+}
+h3{
+  color: var(--textColor);
+  margin-left: 15px;
+}
+.me{
+  background-color: var(--innerBox);
+  margin: 15px;
+}
+.img2{
+  margin: 20px;
+}
+.fave{
+  margin-left: 60px;
+}
+.div4{
+  margin: 10px;
+  float: left;
+  background-color: var(--boxColor);
+  width: 70%;
+}
+.img4{
+  margin-left: 400px;
+}
+.div5{
+  text-align: center;
+  margin: 10px;
+  float: left;
+  background-color: var(--boxColor);
+  width: 100%;
+  float: center;
+}
+.abtmcm{
+  text-align: center;
+}
+.abtcea{
+  text-align: center;
+}
+p{
+  color: var(--textColor);
+}
+.abtme{
+  margin: 15px;
+
+}
+.darkmode {
+    --bgColor: #202124;
+    --textColor: white;
+    --boxColor: #434343;
+    --footColor: #434343;
+    --innerBox: #283339;
+    --linkColor: #4c5041;
+    --linkHover: #0C2740;
+}
